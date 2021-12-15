@@ -1,0 +1,5 @@
+verify:
+    attestations:
+    - linux-attestation.json
+    policy: policy-signed.json
+    layout-key: testpub.pem
