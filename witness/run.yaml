@@ -1,6 +1,0 @@
-run:
-    key: testkey.pem
-    outfile: linux-attestation.json
-    step: build
-    trace: true
-    workingdir: "../"

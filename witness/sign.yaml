@@ -1,3 +1,0 @@
-sign:
-    key: testkey.pem
-    outfile: policy-signed.json
